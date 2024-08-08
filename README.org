@@ -1,0 +1,9 @@
+#+title: Smolix
+
+Nix but smol.
+
+* Architecture
+
+** Parsing
+	 Smolix builds upon a Nix parser written from scratch in Rust using chumsky, which supports no-std.
+

@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "config:best-practices",
+    "group:allNonMajor"
+  ],
+  "dependencyDashboard": true,
+  "schedule": [
+    "every weekend"
+  ]
+}

@@ -1,5 +1,4 @@
 #![no_std]
-#![feature(new_range_api)]
 
 extern crate alloc;
 
